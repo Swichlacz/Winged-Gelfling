@@ -1,6 +1,6 @@
 #IF...
 
-By Rudyard Kipling
+By Rudyard Kipling<br>
 
 If you can keep your head when all about you<br>
 Are losing theirs and blaming it on you;<br>
@@ -30,7 +30,7 @@ And so hold on when there is nothing in you<br>
 Except the Will which says to them: "Hold on!"<br>
 
 If you can talk with crowds and keep your virtue,<br>
-Or walk with kings, nor lose the common touch,>br>
+Or walk with kings, nor lose the common touch,<br>
 If neither foes nor loving friends can hurt you,<br>
 If all men count with you, but none too much;<br>
 If you can fill the unforgiving minute<br>
