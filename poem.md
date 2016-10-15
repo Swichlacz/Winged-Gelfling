@@ -1,11 +1,11 @@
 #IF...
 
-By Rudyard Kipling<br>
+#By Rudyard Kipling<br>
 
-If you can keep your head when all about you<br>
-Are losing theirs and blaming it on you;<br>
-If you can trust yourself when all men doubt you,<br>
-But make allowance for their doubting too;<br>
+If you can _keep_ your head when all about you<br>
+Are _losing_ theirs and blaming it on you;<br>
+If you can _trust yourself_ when all men doubt you,<br>
+But make allowance for _their doubting_ too;<br>
 If you can wait and not be tired by waiting,<br>
 Or being lied about, don't deal in lies,<br>
 Or being hated, don't give way to hating,<br>
@@ -13,8 +13,8 @@ And yet don't look too good, nor talk too wise:<br>
 
 If you can dream, and not make dreams your master;<br>
 If you can think, and not make thoughts your aim;<br>
-If you can meet with Triumph and Disaster<br>
-And treat those two imposters just the same;<br>
+_If you can meet with Triumph and Disaster<br>
+And treat those two imposters just the same_;<br>
 If you can bear to hear the truth you've spoken<br>
 Twisted by knaves to make a trap for fools,<br>
 Or watch the things you gave your life to, broken,<br>
@@ -31,11 +31,11 @@ Except the Will which says to them: "Hold on!"<br>
 
 If you can talk with crowds and keep your virtue,<br>
 Or walk with kings, nor lose the common touch,<br>
-If neither foes nor loving friends can hurt you,<br>
+If _neither foes nor loving friends can hurt you,_<br>
 If all men count with you, but none too much;<br>
 If you can fill the unforgiving minute<br>
 With sixty seconds' worth of distance run,<br>
 Yours is the Earth and everything that's in it,<br>
-And, which is more, you'll be a Man, my son!<br>
+And, which is more, you'll be a _Man_, my son!<br>
 
 [Public Domain Poetry][http://www.public-domain-poetry.com/rudyard-kipling/if-3275]
