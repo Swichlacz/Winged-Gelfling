@@ -1,6 +1,6 @@
 #IF...
 
-#By Rudyard Kipling<br>
+**By Rudyard Kipling**<br>
 
 If you can _keep_ your head when all about you<br>
 Are _losing_ theirs and blaming it on you;<br>
